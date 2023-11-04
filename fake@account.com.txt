@@ -1,0 +1,11 @@
+ZV1UH1nw5dYV8/UI4uGYZmOWfH7PoCR8/EEuFnbUbuKpXJ8xUdAxaSHlK7fVGpce/ufKs8IwwrItWHlfpk4OjTd2SEqBy9OMbjylK3rdFM0=
+
+fake@account.com
+
+{"DURUM": true, "HATAKODU": 0, "MESAJ": "Profil Listelendi", "NESNE": [{"created_date": "2023-09-11T22:01:32.483", "display_name": "Fake", "email": "Fake@account.com", "job_title": "Account", "user_id": 1028}]}
+
+t.emregungor > fake account takip etti,
+
+
+
+

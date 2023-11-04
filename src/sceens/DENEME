@@ -1,0 +1,199 @@
+ LOG  {
+    "DURUM": true,
+    "HATAKODU": 0,
+    "MESAJ": "Tüm Kullanıcılar Listelendi",
+    "NESNE": [
+        {
+            "created_date": "2023-08-19T13:28:16.427",
+            "display_name": "",
+            "email": "",
+            "follow_status": 0,
+            "job_title": "",
+            "user_id": 1009
+        },
+        {
+            "created_date": "2023-09-01T15:53:14.117",
+            "display_name": "A",
+            "email": "abc@mail.com",
+            "follow_status": 0,
+            "job_title": "Mühendis",
+            "user_id": 1027
+        },
+        {
+            "created_date": "2023-08-17T11:46:37.717",
+            "display_name": "Ahmet Dönmez",
+            "email": "ahmet@gmail.com",
+            "follow_status": 0,
+            "job_title": "Yazılımcı",
+            "user_id": 1007
+        },
+        {
+            "created_date": "2023-08-17T12:07:42.85",
+            "display_name": "Ahmet Dönmez",
+            "email": "ayse@gmail.com",
+            "follow_status": 0,
+            "job_title": "Yazılımcı",
+            "user_id": 1008
+        },
+        {
+            "created_date": "2023-08-19T18:16:26.407",
+            "display_name": "Ali Karam",
+            "email": "ali@gmail.com",
+            "follow_status": 0,
+            "job_title": "Software Developer",
+            "user_id": 1011
+        },
+        {
+            "created_date": "2023-08-26T12:51:41.93",
+            "display_name": "Ayse Ulus",
+            "email": "ayseulus@gmail.com",
+            "follow_status": 0,
+            "job_title": "Founder",
+            "user_id": 1024
+        },
+        {
+            "created_date": "2023-08-26T12:53:32.247",
+            "display_name": "Ayse Ulusoy",
+            "email": "ayseulusoy@gmail.com",
+            "follow_status": 0,
+            "job_title": "Founder",
+            "user_id": 1025
+        },
+        {
+            "created_date": "2023-08-19T19:33:04.27",
+            "display_name": "Beyza Durmaz",
+            "email": "beyzadurmaz@gmail.com",
+            "follow_status": 0,
+            "job_title": "React Native Developer",
+            "user_id": 1012
+        },
+        {
+            "created_date": "2023-08-28T12:54:25.133",
+            "display_name": "Deniz",
+            "email": "deniz",
+            "follow_status": 0,
+            "job_title": "Teks",
+            "user_id": 1026
+        },
+        {
+            "created_date": "2023-07-20T19:05:36.723",
+            "display_name": "Dy",
+            "email": "denizhan@mail.com",
+            "follow_status": 0,
+            "job_title": "Tek",
+            "user_id": 1
+        },
+        {
+            "created_date": "2023-08-20T15:47:29.35",
+            "display_name": "Emre",
+            "email": "T. E@gmail.com",
+            "follow_status": 0,
+            "job_title": "Gungor",
+            "user_id": 1019
+        },
+        {
+            "created_date": "2023-08-20T15:49:36.913",
+            "display_name": "Emre",
+            "email": "T. E@gmal.com",
+            "follow_status": 0,
+            "job_title": "Gungor",
+            "user_id": 1020
+        },
+        {
+            "created_date": "2023-08-23T12:42:31.253",
+            "display_name": "Emre",
+            "email": "T.emregungor@gmail.com",
+            "follow_status": 0,
+            "job_title": "Gungor",
+            "user_id": 1023
+        },
+        {
+            "created_date": "2023-07-20T19:39:56.5",
+            "display_name": "Engin",
+            "email": "engin@mail.com",
+            "follow_status": 0,
+            "job_title": "Doktor",
+            "user_id": 2
+        },
+        {
+            "created_date": "2023-09-11T22:01:32.483",
+            "display_name": "Fake",
+            "email": "Fake@account.com",
+            "follow_status": 1,
+            "job_title": "Account",
+            "user_id": 1028
+        },
+        {
+            "created_date": "2023-08-20T12:48:45.94",
+            "display_name": "John Doe",
+            "email": "john",
+            "follow_status": 0,
+            "job_title": "Software Developer",
+            "user_id": 1013
+        },
+        {
+            "created_date": "2023-08-20T12:51:06.237",
+            "display_name": "John Doe",
+            "email": "johndoe",
+            "follow_status": 0,
+            "job_title": "Software Developer",
+            "user_id": 1014
+        },
+        {
+            "created_date": "2023-08-20T12:51:10.78",
+            "display_name": "John Doe",
+            "email": "johndoe@",
+            "follow_status": 0,
+            "job_title": "Software Developer",
+            "user_id": 1015
+        },
+        {
+            "created_date": "2023-08-20T12:51:15.307",
+            "display_name": "John Doe",
+            "email": "johndoe@gmail",
+            "follow_status": 0,
+            "job_title": "Software Developer",
+            "user_id": 1016
+        },
+        {
+            "created_date": "2023-08-20T12:51:18.553",
+            "display_name": "John Doe",
+            "email": "johndoe@gmail.",
+            "follow_status": 0,
+            "job_title": "Software Developer",
+            "user_id": 1017
+        },
+        {
+            "created_date": "2023-08-20T12:51:37.197",
+            "display_name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "follow_status": 0,
+            "job_title": "Software Developer",
+            "user_id": 1018
+        },
+        {
+            "created_date": "2023-08-03T15:32:04.967",
+            "display_name": "Kürşad Özdemir",
+            "email": "kursad@mail.com",
+            "follow_status": 0,
+            "job_title": "Yazılım Mühendisi",
+            "user_id": 5
+        },
+        {
+            "created_date": "2023-08-20T19:23:32.887",
+            "display_name": "Merve",
+            "email": "merve@gmail.com",
+            "follow_status": 0,
+            "job_title": "Human Resources Specialist",
+            "user_id": 1022
+        },
+        {
+            "created_date": "2023-08-20T16:08:05.677",
+            "display_name": "Qwe",
+            "email": "Qwe@qwe.qwe",
+            "follow_status": 0,
+            "job_title": "Qwe",
+            "user_id": 1021
+        }
+    ]
+}
